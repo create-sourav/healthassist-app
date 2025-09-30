@@ -546,7 +546,7 @@ def run_streamlit_app() -> None:
         st.markdown("---")
         st.subheader("Norms & Sources used")
         st.write("The app used embedded guideline defaults (WHO for BMI, AHA/ACC for BP categories, ADA/Mayo for glucose cutoffs, NIH/ATP/Johns Hopkins for lipids).")
-        st.caption("For production deployment: host a vetted JSON of your local guideline choices and configure REMOTE_NORMS_URL in the code.")
+        # Removed the confusing production-deployment caption per your request.
 
 # ---------- Entrypoint ----------
 if __name__ == "__main__":
