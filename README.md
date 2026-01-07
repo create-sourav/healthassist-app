@@ -69,38 +69,6 @@ A Python-based interactive personal health assessment dashboard built with Strea
 
 ---
 
-## 📌 How the System Works
-
-#### System Architecture
-┌─────────────────────────┐
-│  User Input Interface   │
-│  (Streamlit Dashboard)  │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│   Rule-Based Engine     │
-│  (if-else conditions)   │
-│                         │
-│  • BMI Classification   │
-│  • BP Interpretation    │
-│  • Glucose Analysis     │
-│  • CBC Risk Detection   │
-│  • Lipid Assessment     │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│   Output Generation     │
-│                         │
-│  • Health Summary       │
-│  • Risk Flags           │
-│  • Diet Plan            │
-│  • Exercise Plan        │
-│  • PDF Report           │
-│  • CSV Export           │
-└─────────────────────────┘
-
 #### Processing Flow
 
 1. **Data Input** – User enters health values through the interactive dashboard
