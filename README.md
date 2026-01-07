@@ -96,23 +96,6 @@ A Python-based interactive personal health assessment dashboard built with Strea
 - Python 3.7 or higher
 - pip package manager
 
-#### Installation
-
-1. **Clone the repository**
-   git clone https://github.com/yourusername/healthassist.git
-   cd healthassist
-
-2. **Install dependencies**
-   pip install streamlit pandas reportlab
-
-3. **Run the application**
-   streamlit run healthassist.py
-
-4. **Access the dashboard**
-   - Open your browser and navigate to http://localhost:8501
-
----
-
 
 ## 🎯 Use Cases
 
