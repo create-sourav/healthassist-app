@@ -113,16 +113,6 @@ A Python-based interactive personal health assessment dashboard built with Strea
 
 ---
 
-## 📦 Project Structure
-
-healthassist/
-│
-├── healthassist.py          # Main application file
-├── requirements.txt         # Python dependencies
-├── README.md               # Project documentation
-└── healthassit             # Banner image
-
----
 
 ## 🎯 Use Cases
 
@@ -150,7 +140,5 @@ HealthAssist is an educational tool and should not be used as a substitute for p
 email: souravmondal5f@gmail.com 
 For questions or feedback, please open an issue on GitHub.
 
----
 
-**Made with ❤️ for health awareness and education**
 
